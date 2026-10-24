@@ -1,0 +1,15 @@
+{
+  "name": "capstone-project",
+  "version": "1.0.0",
+  "description": "Playwright capstone project - Conduit app",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
