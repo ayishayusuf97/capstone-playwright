@@ -3,18 +3,8 @@
     "title": "Playwright Basics",
     "description": "Intro to playwright",
     "body": "Playwright is a tool for end to end testing of web apps.",
-    "tag": "playwright"
-  },
-  {
-    "title": "Page Object Model",
-    "description": "What is POM",
-    "body": "POM keeps locators and actions in a separate class for each page.",
-    "tag": "pom"
-  },
-  {
-    "title": "Custom Fixtures",
-    "description": "Fixtures in playwright",
-    "body": "Fixtures help to create page objects and pass them to the test.",
-    "tag": "fixtures"
+    "tag": "playwright",
+    "updatedTitle": "Playwright Basics Updated",
+    "updatedBody": "Playwright supports Chromium, Firefox and WebKit."
   }
 ]
